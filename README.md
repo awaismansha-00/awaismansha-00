@@ -30,7 +30,7 @@ Credits and references used in this README:
 &nbsp;
 <img src="assets/istio-square.png" alt="Image Description" width="50" style="border-radius: 10px; vertical-align:">
 &nbsp;
-<img src="assets/kibana.png" alt="Image Description" width="48" style="border-radius: 10px;">
+<img src="assets/kibana.png" alt="Image Description" width="50" style="border-radius: 10px;">
 &nbsp;
 <img src="assets/jaeger.png" alt="Image Description" width="50" style="border-radius: 10px; vertical-align:">
 &nbsp;
