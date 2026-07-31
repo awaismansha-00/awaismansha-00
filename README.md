@@ -26,34 +26,29 @@ Credits and references used in this README:
 
 [![My Skills](https://skillicons.dev/icons?i=git,docker,kubernetes,aws,terraform,githubactions,prometheus,grafana,elasticsearch,python,linux&theme=light)](https://skillicons.dev)
 &nbsp;
-<img src="assets/argocd-square.png" alt="ArgoCD" width="48" />
+<img src="assets/argocd-square.png" alt="Image Description" width="50" style="border-radius: 10px; vertical-align:">
 &nbsp;
-<img src="assets/istio-square.png" alt="ArgoCD" width="30" />
+<img src="assets/istio-square.png" alt="Image Description" width="50" style="border-radius: 10px; vertical-align:">
 &nbsp;
-<img src="assets/jaeger-square.png" alt="Jaeger" width="48" />
+<img src="assets/kibana.png" alt="Image Description" width="48" style="border-radius: 10px;">
+&nbsp;
+<img src="assets/jaeger.png" alt="Image Description" width="50" style="border-radius: 10px; vertical-align:">
+&nbsp;
+<img src="assets/fluentbit.png" alt="Image Description" width="50" style="border-radius: 10px; vertical-align:">
+&nbsp;
 
----
+
+
+
+
 
 ## Projects - Showcase
 
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="https://github.com/awaismansha-00/aws_terraform_3tier">
-        <img src="assets/aws-3tier-architecture.png"
-             alt="AWS Terraform 3-Tier Architecture"
-             style="width:100%; height:200px; object-fit:cover;"/>
-      </a>
-      <br/>
-      <b>AWS Terraform 3-Tier Architecture</b><br/>
-      <sub>Designed and provisioned a highly available 3-tier AWS architecture using Terraform, including VPC, public/private subnets, NAT Gateway, Bastion Host, EC2 instances, load balancing, and RDS.</sub><br/>
-      🔗 <a href="https://github.com/awaismansha-00/aws_terraform_3tier">Repo</a>
-      <br/>
-      <sub>Tags: AWS, Terraform, VPC, EC2, RDS, Load Balancing, Security</sub>
-    </td>
-    <td align="center" width="33%">
       <a href="https://github.com/awaismansha-00/production-grade-devsecops">
-        <img src="assets/devsecops-pipeline.png"
+        <img src="assets/production-grade-devsecops.webp"
              alt="Production Grade DevSecOps Project"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
@@ -62,11 +57,10 @@ Credits and references used in this README:
       <sub>Implemented a production-style DevSecOps workflow with branch strategy, CI/CD, security scanning, code quality checks, container image scanning, SBOM generation, Kubernetes deployment, and promotion to production.</sub><br/>
       🔗 <a href="https://github.com/awaismansha-00/production-grade-devsecops">Repo</a>
       <br/>
-      <sub>Tags: DevOps, DevSecOps, GitHub Actions, ArgoCD, Kubernetes, Trivy, SonarQube</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/awaismansha-00/opentelemetry-demo-devops">
-        <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/opentelemetry/icon/color/opentelemetry-icon-color.svg"
+        <img src="assets/opentelemetry.webp"
              alt="OpenTelemetry Demo DevOpsification"
              style="width:100%; height:200px; object-fit:contain;"/>
       </a>
@@ -75,7 +69,18 @@ Credits and references used in this README:
       <sub>Containerized selected microservices, deployed them on Kubernetes, provisioned cloud infrastructure with Terraform, and implemented observability using Prometheus, Grafana, EFK Stack, Jaeger, and OpenTelemetry.</sub><br/>
       🔗 <a href="https://github.com/awaismansha-00/opentelemetry-demo-devops">Repo</a>
       <br/>
-      <sub>Tags: OpenTelemetry, Prometheus, Grafana, EFK, Jaeger, Docker, Kubernetes, Terraform</sub>
+    </td>
+        <td align="center" width="33%">
+      <a href="https://github.com/awaismansha-00/aws">
+        <img src="assets/aws-architectures.webp"
+             alt="AWS Architectures"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>AWS Architectures</b><br/>
+      <sub>A collection of modular Terraform architecture labs covering serverless APIs, blue-green deployments, real-time backends, event-driven media processing, file storage, and three-tier web patterns.</sub><br/>
+      🔗 <a href="https://github.com/awaismansha-00/aws_terraform_3tier">Repo</a>
+      <br/>
     </td>
   </tr>
 </table>
@@ -105,5 +110,9 @@ Credits and references used in this README:
 </a>
 &nbsp;
 <a href="https://awaismansha.com" target="_blank">
-  <img src="https://cdn.simpleicons.org/googlechrome/4285F4" alt="Website" width="48" />
+  <img src="assets/website.png" alt="Website" width="48" />
+</a>
+&nbsp;
+<a href="https://medium.com/@awaismansha97" target="_blank">
+  <img src="assets/medium.png" alt="Website" width="48" />
 </a>
